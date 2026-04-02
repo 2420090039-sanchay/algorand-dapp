@@ -1,0 +1,1 @@
+console.log("Algorand project initialized");

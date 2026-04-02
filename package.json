@@ -1,0 +1,15 @@
+{
+  "name": "algorand-smart-contract-demo",
+  "version": "1.0.0",
+  "description": "\\# Algorand Smart Contract Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^3.5.2"
+  }
+}
